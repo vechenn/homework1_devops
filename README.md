@@ -1,2 +1,2 @@
-# homework1_devops
-homework1_Gaitukaev_Aslambek
+# Задание 1 по курсу "Инструменты разработки"
+Автор: Гайтукаев Асламбек
